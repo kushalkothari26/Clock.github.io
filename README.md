@@ -1,2 +1,2 @@
 # Clock.github.io
-A clock web application that displays the current time and date. It uses JavaScript to update the time every second.
+A 24-hour clock web application that displays the current time and date which uses JavaScript to update the time every second.
